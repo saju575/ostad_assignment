@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 
 class HomeFeature extends StatefulWidget {
   const HomeFeature({super.key});
-
   @override
   State<HomeFeature> createState() => _HomeFeatureState();
 }
